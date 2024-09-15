@@ -36,7 +36,7 @@ The `FTPServer` class is used to host the server and send files to connected cli
 **Example Usage:**
 
 ```python
-from ftp import FTPServer
+from binaryflow import FTPServer
 
 # Path to the file you want to send
 file_path = 'example.txt'
@@ -63,7 +63,7 @@ The `FTPClient` class is used to connect to an FTPServer and receive files.
   **Example Usage:**
 
   ```python
-from ftp import FTPClient
+from binaryflow import FTPClient
 
 # IP address of the server
 server_ip = '192.168.1.249'
