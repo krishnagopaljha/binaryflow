@@ -14,7 +14,7 @@
 To install the package in python using pip:
 
 ```bash
-pip install quicklink
+pip install binaryflow
 ```
 
 ## Usage
